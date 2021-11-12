@@ -1,12 +1,11 @@
 ## Software Error Analysis Using Neural Network 
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=intisarnaheen&color=blueviolet" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%2C%20Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+</p>
 
 
 <br />
@@ -54,11 +53,8 @@ predict the expected tokens.
 
 This project was successfully built with the following libraries. To install the libraries and use the codebase, you should properly be aware of the version conflicts of tensorflow and numpy as well. But I strongly recommend to use Anaconda for that.
 
-* [numpy](https://python.org/)
-* [Tensorflow](https://nextjs.org/)
-* [Gymspaces](https://reactjs.org/)
-* [Matplotlib](https://vuejs.org/)
-* [Scipy](https://vuejs.org/)
+* [numpy](https://numpy.org/)
+* [tflearn by Tensorflow](http://tflearn.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -68,35 +64,31 @@ This project was successfully built with the following libraries. To install the
 
 To get started with this project, the level of code interraction needed is intermediate level at least. Please follow the simple steps below to run the repo:
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/intisarnaheen/Software-Error-Analysis-Using-Neural-Network.git
    ```
-3. Install NPM packages
+2. Install numpy
    ```sh
-   npm install
+   pip install numpy
    ```
-4. Enter your API in `config.js`
+3. Install Tensorflow
+   ```sh
+   pip install tensorflow
+   ```
+5. Install tflearn
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   pip install tflearn
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-## Contribution
+## Do you want to contribute?
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -104,7 +96,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/Software Error Analysis Using Neural Network`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
@@ -123,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [@Follow me on twitter](https://twitter.com/itnsir) <br>
 Email me - intisar.naheen@northsouth.edu <br>
-Project Link: [Bayesian Reinforcement Learning with Maximum Entropy Finite State Controllers.](https://github.com/intisarnaheen/Bayesian-Reinforcement-Learning-with-Maximum-Entropy)
+Project Link: [Software Error Analysis Using Neural Network.](https://github.com/intisarnaheen/Software-Error-Analysis-Using-Neural-Network)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -136,20 +128,3 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
