@@ -1,4 +1,4 @@
-# analyzing-software-deep-learning
+# Software Error Analysis Using Neural Network 
 
 In this project, deep neural network has been used to train our
 model with around 800 javascript programs in the form of sequence
