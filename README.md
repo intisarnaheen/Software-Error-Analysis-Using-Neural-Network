@@ -87,6 +87,8 @@ To get started with this project, the level of code interraction needed is inter
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+## Architecture
+![Results_image](https://raw.githubusercontent.com/intisarnaheen/Software-Error-Analysis-Using-Neural-Network/master/Assets/Software%20error%20Analyzing%20Diagram.png)
 
 ## Do you want to contribute?
 
