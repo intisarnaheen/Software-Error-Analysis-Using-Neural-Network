@@ -1,12 +1,11 @@
 ## Software Error Analysis Using Neural Network 
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=intisarnaheen&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%2C%20Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+</p>
 
 
 <br />
